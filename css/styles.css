@@ -1,0 +1,57 @@
+
+body {
+    background-image: url(../images/background.jpg);
+  }
+
+
+.portfolio-box {
+  width: 450px;
+  height: 700px;
+  background-color: rgba(0,0,0,0.8);
+  padding: 40px;
+  color:white;
+  margin: 0 auto;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  border-style: solid;
+  border-color: white;
+  border-width: 4px;
+  border-radius: 50%
+}
+
+h1 {
+  font-weight: 100;
+  letter-spacing: 5;
+  font-size: 40px;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.p {
+  font-family: 'Roboto Mono', monospace;
+
+}
+.location a{
+  color: white;
+}
+.location {
+  font-size: 20px;
+  text-align: center;
+}
+
+.icons a:hover {
+  color: rgba(37,149,246,255);
+}
+.icons {
+  font-size: 30px;
+  letter-spacing: 5px;
+}
+
+.icons a{
+  color: white;
+}
