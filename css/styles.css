@@ -6,12 +6,13 @@ body {
 
 .portfolio-box {
   width: 450px;
-  height: 700px;
+  height: 800px;
   background-color: rgba(0,0,0,0.8);
   padding: 40px;
   color:white;
   margin: 0 auto;
   margin-top: 50px;
+  margin-bottom: 75px;
   text-align: center;
 }
 
@@ -34,6 +35,7 @@ h1 {
 
 .p {
   font-family: 'Roboto Mono', monospace;
+  font-size: 17px;
 
 }
 .location a{
@@ -48,10 +50,29 @@ h1 {
   color: rgba(37,149,246,255);
 }
 .icons {
-  font-size: 30px;
-  letter-spacing: 5px;
+  font-size: 40px;
+  letter-spacing: 7.5px;
 }
 
 .icons a{
   color: white;
+}
+.font{
+  font-family: 'Roboto Mono', monospace;
+
+}
+.line-break {
+  width: 140px;
+  margin: 0 auto;
+  border-top: 1px solid white;
+}
+.icons-skills a:hover {
+  color: rgba(37,149,246,255);
+}
+.icons-skills{
+  font-size: 40px;
+  letter-spacing: 8px;
+}
+.icons-skills a{
+  color:white;
 }
