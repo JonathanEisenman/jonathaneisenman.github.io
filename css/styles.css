@@ -1,4 +1,5 @@
 
+
 body {
     background-image: url(../images/background.jpg);
   }
@@ -12,7 +13,7 @@ body {
   color:white;
   margin: 0 auto;
   margin-top: 50px;
-  margin-bottom: 75px;
+  margin-bottom: 85px;
   text-align: center;
 }
 
@@ -50,7 +51,7 @@ h1 {
   color: rgba(37,149,246,255);
 }
 .icons {
-  font-size: 40px;
+  font-size: 45px;
   letter-spacing: 7.5px;
 }
 
@@ -76,3 +77,13 @@ h1 {
 .icons-skills a{
   color:white;
 }
+
+.footer{
+  font-family: 'Roboto Mono', monospace;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:10px;
+  text-align:center;
+  color:white;
+}
+
