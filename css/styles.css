@@ -52,7 +52,7 @@ h1 {
   transform: 2;
 }
 .icons {
-  transition: 0.8s;
+  transition: 1.1s;
   font-size: 45px;
   letter-spacing: 7.5px;
 }
@@ -73,7 +73,7 @@ h1 {
   color: rgba(37,149,246,255);
 }
 .icons-skills{
-  transition: 0.8s;
+  transition: 1.1s;
   font-size: 40px;
   letter-spacing: 8px;
 }
