@@ -81,6 +81,28 @@ h1 {
   color:white;
 }
 
+
+.button a:hover {
+  color: rgba(37,149,246,255);
+}
+
+.button{
+  font-family: 'Roboto Mono', monospace;
+  font-size: 15px;
+  padding: 5px 10px;
+  background-color: white;
+  border: 5px solid #ffffff;
+  color: black;
+  letter-spacing: 1.5px;
+  border-radius: 50px;
+  cursor: pointer;
+  outline: none;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+}
+
+
 .footer{
   font-family: 'Roboto Mono', monospace;
   margin-left:auto;
